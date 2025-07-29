@@ -76,7 +76,7 @@ source venv/bin/activate  # oder venv\Scripts\activate auf Windows
 
 ---
 
-## 📈 Beispiel-Ergebnisse
+## Beispiel-Ergebnisse
 
 - **Bestes Modell:** Gradient Boosting oder ANN (abhängig von Metriken)
 - **Clustering-Erkenntnis:** Kunden mit „Month-to-month“-Verträgen und hohen Gebühren sind häufiger im „Churn“-Cluster
