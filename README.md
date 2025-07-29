@@ -59,7 +59,7 @@ source venv/bin/activate  # oder venv\Scripts\activate auf Windows
 
 ---
 
-## 🚀 Nutzung
+## Nutzung
 
 1. **Starte JupyterLab**:
    \`\`\`bash
